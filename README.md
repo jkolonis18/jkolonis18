@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkolonis18
 - 👀 I have a background in embedded C and Linux development.
 - 🌱 I’m currently learning Qt for Embedded Linux.
-- 💞️ I’m looking to learn more about Android and iOS app development.
+- 💞️ I’m looking to learn more about embedded C++ and multithreaded development.
 - 📫 You can reach me at kolonisj18@gmail.com
 
 <!---
